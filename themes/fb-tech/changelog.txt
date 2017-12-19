@@ -1,0 +1,12 @@
+1.1
+Fixed:
+    - Main color
+Update:
+    - Product detail: Service box
+    - Product detail: Gallery image style
+1.2: 12-2-2017
+Fixed:
+    - Mini cart woo-Version 3.2.5
+    - Import menu
+Update:
+    - WPBakery Page Builder 5.4.5
